@@ -1,6 +1,16 @@
 {
   "name": "verify-identity-card",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "description": "用于校验身份证号",
+  "keywords": [
+    "idcard",
+    "identity-card",
+    "verify-idcard",
+    "verification-idcard",
+    "check-idcard",
+    "idcard-validator",
+    "identity-card-validator"
+  ],
   "author": {
     "name": "余阿伟"
   },
@@ -8,5 +18,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/aweiu/verify-identity-card.git"
-  }
+  },
+  "license": "ISC"
 }
